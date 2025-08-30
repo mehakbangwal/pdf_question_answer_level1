@@ -1,5 +1,5 @@
 Create a virtual environment.
-Download the requirements 
+Download the requirements :
 pip install -r requirements.txt
-Run the app
+Run the app :
 steamlit run app.py

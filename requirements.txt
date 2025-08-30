@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+sentencepiece
+accelerate
+python-dotenv
+
+
